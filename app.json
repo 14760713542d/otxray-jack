@@ -29,7 +29,7 @@
     
     "Share_Path": {
       "description": "Share path, /share233/index.html查看订阅链接及二维码",
-      "value": "/share233"
+      "value": "/s"
     },
 
     "VER": {
